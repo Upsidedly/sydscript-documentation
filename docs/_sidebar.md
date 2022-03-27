@@ -1,3 +1,3 @@
 <!-- _sidebar.md -->
 
-[Home](/read.md)
+[Home](read.md)
