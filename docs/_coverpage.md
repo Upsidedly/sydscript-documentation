@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# sydscript <small>1.0.0</small>
+# sydscript
 
 > A modern, convenient, optionally statically typed programming language
 
