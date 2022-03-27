@@ -7,5 +7,3 @@
 - lightweight
 - beginner-friendly
 - rich documentation
-
-[Go](read.md)
