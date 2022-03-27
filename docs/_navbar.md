@@ -1,4 +1,4 @@
 <!-- _navbar.md -->
 
 * Overview
-    * [Home](/read)
+    * [Home](/read.md)
