@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# [sydscript](read.md) <small>1.0.0</small>
+# [sydscript](https://upsidedly.github.io/sydscript-documentation/#/read.md) <small>1.0.0</small>
 
 > A modern, convenient, optionally statically typed programming language
 
