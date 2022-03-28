@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# [sydscript](read.md)
+# [sydscript](README.md)
 
 > A modern, convenient, optionally statically typed programming language
 
